@@ -1,6 +1,6 @@
 name: SFTP_Gem
 description: SFTP gem for Python
-version: 0.0.1
+version: '1.0'
 author: nathan+demo2@prophecy.io
 language: python
 buildSystem: ''
