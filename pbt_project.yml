@@ -68,12 +68,28 @@ dependencies:
   id: '1908431832'
   createdAt: '2024-07-31T07:51:59.488791Z'
   type: plibMaven
+  enabled: true
+  entity: Project
 - modifiedAt: '2024-07-31T07:51:59.488791Z'
   name: plibPypi
   version: 1.9.9
   id: '802618434'
   createdAt: '2024-07-31T07:51:59.488791Z'
   type: plibPypi
+  enabled: true
+  entity: Project
+- description: ''
+  id: joitauBjIgVEimVpZnyxr
+  editable: true
+  enabled: true
+  type: pypi
+  name: Paramiko
+  scope: Project
+  package: paramiko
+  version: ''
+  entity: Project
+  modifiedAt: '2024-07-31T07:57:44.492Z'
+  createdAt: '2024-07-31T07:57:44.492Z'
 projectDependencies:
   '12654':
     projectUID: 12654
